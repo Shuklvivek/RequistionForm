@@ -1,0 +1,24 @@
+{
+  "name": "requistionform",
+  "version": "1.0.1",
+  "description": "A requistion app eradicating use of Power Automate and better functions and UI then PowerApps",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuklvivek/RequistionForm.git#dev"
+  },
+  "keywords": [
+    "PowerApps",
+    "Requistion",
+    "Approval"
+  ],
+  "author": "Vivek Shukla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shuklvivek/RequistionForm/issues"
+  },
+  "homepage": "https://github.com/Shuklvivek/RequistionForm/tree/dev#readme"
+}
